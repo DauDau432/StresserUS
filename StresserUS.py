@@ -19,3 +19,4 @@ print("=========================================")
 print("  Đã gửi yêu cầu\n")
 os.system(f"./StresserUS version=2 host={URL} limit={LIMIT} time={TIME} list={LIST} threads={THREADS} mode={METHOD}")
 input()
+#./StresserUS version=2 host=<url> limit=<rate> time=<time> list=<proxyfile> threads=<thread> mode=<GET/POST> cookie=<ddos=true> data=<post=true>
