@@ -1,4 +1,3 @@
-// dajdea
 # StresserUS-httpflood
 ## Cài đặt
 ```
