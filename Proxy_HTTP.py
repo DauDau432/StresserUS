@@ -429,7 +429,7 @@ useragents=["AdsBot-Google ( http://www.google.com/adsbot.html)",
 			"W3C_Validator/1.654",
 			"w3m/0.5.1",
 			"WDG_Validator/1.6.2",
-			"WebCopier v4.6",
+			"WebCopier v4.6",#copyright by daudau
 			"Web Downloader/6.9",
 			"WebZIP/3.5 (http://www.spidersoft.com)",
 			"Wget/1.9.1",
